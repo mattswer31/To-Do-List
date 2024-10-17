@@ -6,8 +6,3 @@ To use this program, input:
 '3' to mark a task as complete or incomplete
 '4' to delete a task
 '5' to quit the program
-
-input validation, error handling try except else finally
-use functions and comments
-edge cases, empty lists or incorrect user input
-bonus - task priorities, due dates, color code
